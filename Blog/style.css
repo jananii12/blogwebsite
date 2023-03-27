@@ -1,0 +1,91 @@
+/* Reset the default margin and padding for all elements */
+* {
+  margin: 10;
+  padding: 5;
+  background-color: white;
+}
+
+/* Set a default font family and size */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  background-color:#efefef;
+}
+
+/* Set the width of the main content area *
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.leftcolumn {   
+  float: left;
+  width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
+
+/* Fake image */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Add a card effect for articles */
+.card {
+   background-color: white;
+   padding: 20px;
+   margin-top: 20px;
+}
+
+/* Style the header *
+header {
+  background-image: url(C:\Users\Janani murugavel\Downloads\instagramlogo.png);
+  background-color: lightcoral;
+  color:  #6e4242;
+  padding: 5px;
+}
+
+/* Style the main navigation menu *
+nav {
+  background-color: #666;
+  color: #fff;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+Style the main content area
+main {
+  padding: 20px;
+}
+
+/* Style the footer */
+footer {
+  background-color: lightcoral;
+  color: #6e4242;
+  padding: 5px;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  background-color: black;
+}
